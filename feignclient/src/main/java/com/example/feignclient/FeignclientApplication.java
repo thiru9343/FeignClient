@@ -32,3 +32,4 @@ public class FeignclientApplication implements CommandLineRunner{
 		LOG.info("Product from RESTAPIAPPLICATION:" + productFromFeignClient.toString());
 	}
 }
+
